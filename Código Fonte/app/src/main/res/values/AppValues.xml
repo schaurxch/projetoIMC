@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CORES -->
+    <color name="greenDark">#006341</color>
+    <color name="greenLight">#00A859</color>
+    <color name="grayDark">#4D4D4D</color>
+    <color name="grayLight">#B3B3B3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#F44336</color>
+    
+    <!-- STRINGS DO PROJETO -->
+    <string name="textLogo">FECAP</string>
+    <string name="textBtnClose">FECHAR</string>
+    <string name="textCreator">Feito por Pedro Schaurich Maia</string>
+
+    <!-- TELA PRINCIPAL / TELA 1 -->
+    <string name="textMainTitle">CALCULADORA IMC</string>
+    <string name="textMainBtn">IR PARA CALCULADORA</string>
+    <string name="textIMC">CLASSIFICAÇÃO</string>
+
+    <!-- TELA CALCULADORA / TELA 2-->
+    <string name="textBtnCalculate">CALCULAR</string>
+    <string name="textBtnClear">LIMPAR</string>
+    <string name="textWeight">DIGITE SEU PESO EM KG</string>
+    <string name="textHeight">DIGITE SUA ALTURA EM M</string>
+
+    <!-- TELA RESULTADO ABAIXO DO PESO / TELA 3 -->
+    <string name="textUWResult">ABAIXO DO PESO</string>
+    <string name="textUWMessage">Seu corpo merece cuidado! Pequenos ajustes podem fazer a diferença. 💪✨</string>
+    
+    <!-- TELA RESULTADO PESO NORMAL / TELA 4 -->
+    <string name="textNWResult">PESO NORMAL</string>
+    <string name="textNWMessage">Ótimo equilíbrio! Continue com hábitos saudáveis. 🌿🏃‍♂️</string>
+
+    <!-- TELA RESULTADO SOBREPESO / TELA 5 -->
+    <string name="textOWResult">SOBREPESO</string>
+    <string name="textOWMessage">Pequenas mudanças já trazem grandes benefícios. Você consegue! 💙</string>
+
+    <!-- TELA RESULTADO OBESIDADE 1 / TELA 5 -->
+    <string name="textOB1Result">OBESIDADE GRAU 1</string>
+    <string name="textOB1Message">Cada passo conta! Seu bem-estar vale o esforço. 🚀</string>
+
+    <!-- TELA RESULTADO OBESIDADE 2 / TELA 5 -->
+    <string name="textOB2Result">OBESIDADE GRAU 2</string>
+    <string name="textOB2Message">Sua saúde é prioridade! Com apoio e persistência, tudo é possível. 💖</string>
+
+    <!-- TELA RESULTADO OBESIDADE 3 / TELA 5 -->
+    <string name="textOB3Result">OBESIDADE GRAU 3</string>
+    <string name="textOB3Message">Toda jornada começa com um primeiro passo. Você tem força para isso! 🌟</string>
+    
+</resources>
